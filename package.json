@@ -1,0 +1,19 @@
+{
+   "name": "NodeJS_LOGIN_WITH_PASSPORT",
+   "description": "NodeJs+ExpressJs + Passport.js + MySQL Authentication + Bookshelf",
+   "version": "1.0.0",
+   "author": "",
+   "main": "app.js",
+   "dependencies": {
+      "express": "4.x",
+      "body-parser": "*",
+      "cookie-parser": "*",
+      "express-session": "*",
+      "bcrypt-nodejs": "*",
+      "ejs": "*",
+      "passport": "*",
+      "passport-local": "*",
+      "mysql": "*",
+      "bookshelf": "0.5"
+   }
+}
